@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\ARCHIVOS\CIENCIA DE LA COMPUTACION\4TO\GRAFICA\FluidSimulation\FluidSimulation\FluidSimulation\main.cpp(789,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ARCHIVOS\CIENCIA DE LA COMPUTACION\4TO\GRAFICA\FluidSimulation\FluidSimulation\FluidSimulation\main.cpp(790,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ARCHIVOS\CIENCIA DE LA COMPUTACION\4TO\GRAFICA\FluidSimulation\FluidSimulation\FluidSimulation\main.cpp(785,14): warning C4101: 'my': unreferenced local variable
+D:\ARCHIVOS\CIENCIA DE LA COMPUTACION\4TO\GRAFICA\FluidSimulation\FluidSimulation\FluidSimulation\main.cpp(785,10): warning C4101: 'mx': unreferenced local variable
+  FluidSimulation.vcxproj -> D:\ARCHIVOS\CIENCIA DE LA COMPUTACION\4TO\GRAFICA\FluidSimulation\FluidSimulation\Debug\FluidSimulation.exe
